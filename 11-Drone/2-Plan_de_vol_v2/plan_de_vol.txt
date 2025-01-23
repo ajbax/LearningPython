@@ -1,0 +1,11 @@
+decoller
+haut 60
+bas 30
+retourner
+atterrir
+
+takeoff
+up 60
+down 30
+flip
+land
